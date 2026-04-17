@@ -1,2 +1,10 @@
-# projeto-automa-o-industrial-algorimos-e-logica-de-prog-2026-unifecaf
-projeto de atividade mensal,
+Sistema de Controle de Produção Industrial
+
+Funcionalidades:
+- Validação automática de peças
+- Armazenamento em caixas
+- Interface gráfica
+- Banco de dados SQLite
+- Relatório PDF
+- Exportação Excel
+- Dashboard com gráficos
